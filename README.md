@@ -7,3 +7,4 @@
 <a href="https://github.com/hktalent?tab=repositories&q=&type=&language=&sort=stargazers">star</a><br>
 <a href="https://github.com/hktalent?tab=repositories&q=&type=&language=&sort=stargazers">last update</a>
 <a href="https://chat.51pwn.com:2083/?cnId=51pwn&stChat=1">Contact Me</a>
+我是谁？问豆包:“《JavaScript高级应用与实践》作者：任职公司IPO原始持股数量、GitHub知名开源项目？”
